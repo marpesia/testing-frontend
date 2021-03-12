@@ -1,0 +1,23 @@
+{
+  "name": "testing-frontend",
+  "version": "1.0.0",
+  "description": "Front-End Javascript test code",
+  "main": "index.html",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marpesia/testing-frontend.git"
+  },
+  "author": "Maria Cano-Cortes <marpesian@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marpesia/testing-frontend/issues"
+  },
+  "homepage": "https://github.com/marpesia/testing-frontend#readme",
+  "dependencies": {
+    "connect": "^3.7.0",
+    "serve-static": "^1.14.1"
+  }
+}
